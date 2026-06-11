@@ -1,6 +1,6 @@
 # Hi, I'm Dipak Lambat 👋
 
-### Data Analyst | BI Developer | Power BI · SQL · Python · Tableau
+### Data Analyst | BI Developer | Power BI · SQL · Python · Tableau · Adv-Excel
 
 ---
 
