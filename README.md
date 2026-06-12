@@ -18,7 +18,7 @@
 
 | Project | Tools | Highlights |
 |---|---|---|
-| [Customer Churn Analysis](https://github.com/DipakLambat) | Power BI · SQL · Python | 2.4× churn risk identified for low-engagement users |
+| [Customer Churn Analysis](https://github.com/DipakLambat/customer-churn-analysis) | Power BI · SQL · Python | 2.4× churn risk identified for low-engagement users |
 | [HR Analytics Dashboard](https://github.com/DipakLambat/hr-data-analysis-tableau) | Tableau · Python · Excel | 16.12% attrition rate uncovered across 1,470 employees |
 | [Blinkit Sales Analysis](https://github.com/DipakLambat/blinkit-data-analysis-powerbi) | Power BI · SQL · Excel | 35% higher sales in Tier 1 cities vs Tier 3 |
 | [Amazon Prime Analysis](https://github.com/DipakLambat/amazon-prime-analysis-powebi) | Power BI · Python · SQL | Content distribution trends across 9,600+ titles |
